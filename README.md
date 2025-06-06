@@ -1,9 +1,11 @@
-### Passionate web developer, sworn to stay top of the development. Hoping to learn something new from every project.
+### Hands-on developer with experience building startups and working in consulting. I move fast, care deeply about users, and love turning ideas into real, impactful products.
 
-🌟 A programmer since 2014. A full-stack developer since 2016.
+🌟 10 years of hands-on experience designing, building, and deploying software.
 
-💪 Strong experience with many different Javascript frameworks.
+💪 Strong background in Full-stack development, DevOps engineering and testing.
 
-🔥 Three years of experience building web and mobile apps using Firebase as a backend.
+🧠 Leveraging AI tools in everyday work
 
-📖 Currently learning more about Typescript and Google Cloud Platform (GCP).
+🚀 Currently building Tilit AI
+
+🛠️ Typescript, React, Google Cloud Platform, CI/CD Pipelines, PostgreSQL, Docker
